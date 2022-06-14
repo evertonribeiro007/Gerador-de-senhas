@@ -18,7 +18,8 @@ body{
 h1{
     background-color: hsl(232, 54%, 11%);
     margin-bottom: 24px;
-    min-width: 500px;
+    min-width: 480px;
+    max-width: 480px;
     padding: 1rem 1.60rem;
     border-radius: .5rem;
     align-items: center;
