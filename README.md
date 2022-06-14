@@ -1,5 +1,5 @@
 # Gerador de Senha 🔒
-## [Demostração](https://evertonribeiro007.github.io/gerador-de-senhas/](https://evertonribeiro007.github.io/Gerador-de-senhas/)
+## [Demostração](https://evertonribeiro007.github.io/Gerador-de-senhas/)
 
 Gerador de senhas difíceis para proteção de contas e acessos, usando HTML, CSS & JavaScript. 
 
